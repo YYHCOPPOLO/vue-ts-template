@@ -8,7 +8,6 @@
       "@/*": ["./src/*"]
     },
     "types": ["vite/client", "vue-router/auto", "vite-plugin-vue-layouts/client"],
-    "ignoreDeprecations": "6.0",
 
     /* Linting */
     "strict": true,
